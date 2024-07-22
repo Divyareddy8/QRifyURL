@@ -20,7 +20,7 @@ Make sure you have Python installed on your system. You can download it from [py
 
 3.Install the required packages: pip install qrcode && pip install pillow
 
-##Usage
+## Usage
 
 1. Run the script: python app.py
 2. Enter the URL you want to encode in the QR code when prompted and if it is valid URL then there will be QR image generated in the UserQRCode.png
